@@ -23,3 +23,5 @@ A repository dedicated to collecting and sharing academic prototype databases to
 * https://github.com/apache/kvrocks
 * https://github.com/VoltDB/voltdb
 * https://github.com/apavlo/h-store
+* https://github.com/hongzimao/decima-sim
+  * https://github.com/ArchieGertsman/spark-sched-sim
