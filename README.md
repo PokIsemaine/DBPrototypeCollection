@@ -13,15 +13,19 @@ A repository dedicated to collecting and sharing academic prototype databases to
   * https://github.com/mitdbg/deneva
 * https://www.hyper-db.de/
 * https://github.com/apache/calcite
-* https://github.com/cmu-db/ottertune
-* https://github.com/epfl-dias/proteus
-  * https://github.com/mtabebe/Adaptive-Storage-Tiresias-and-Proteus
-* https://github.com/shankur/autoindex
-* https://github.com/alibaba/pilotscope
+
 * https://github.com/facebookincubator/velox
 * https://github.com/apache/arrow
 * https://github.com/apache/kvrocks
 * https://github.com/VoltDB/voltdb
 * https://github.com/apavlo/h-store
+
+AI4DB
 * https://github.com/hongzimao/decima-sim
   * https://github.com/ArchieGertsman/spark-sched-sim
+* https://github.com/derFischer/Polyjuice
+* https://github.com/cmu-db/ottertune
+* https://github.com/epfl-dias/proteus
+  * https://github.com/mtabebe/Adaptive-Storage-Tiresias-and-Proteus
+* https://github.com/shankur/autoindex
+* https://github.com/alibaba/pilotscope
