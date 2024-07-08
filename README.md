@@ -21,6 +21,7 @@ A repository dedicated to collecting and sharing academic prototype databases to
 * https://github.com/apavlo/h-store
 
 * https://github.com/UWQuickstep/quickstep
+  * https://github.com/apache/incubator-retired-quickstep
 
 AI4DB
 * https://github.com/hongzimao/decima-sim
